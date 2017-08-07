@@ -10,7 +10,7 @@
   margin-left: 250px;
   display: flex;
   flex: row wrap;
-  margin-top: 70px;
+  margin-top: 60px;
   line-height: 2.5;
 }
 
@@ -22,7 +22,7 @@ h1{
 }
 
 img{
-  border-radius: 70%;
+  border-radius: 60%;
 }
 
 
